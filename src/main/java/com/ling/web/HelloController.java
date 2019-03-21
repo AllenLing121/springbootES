@@ -36,7 +36,7 @@ public class HelloController {
 
        System.out.println(JsonUtils.toJsonString(request));
      //   System.out.println(JsonUtils.toJsonString(osr));
-        System.out.println("req = [" + req + "], updateType = [" + updateType + "], request = [" + request + "]");
+        System.out.println("test git");
         return "{" +
                 "\"summary\": {" +
                 "  \"status\": \"FAILED\"," +
